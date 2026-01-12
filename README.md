@@ -1,2 +1,2 @@
-# Mini-Project-3rd-Sem
+# Major Project
 Smart Plant Care Companion using IoT
